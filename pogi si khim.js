@@ -2,7 +2,9 @@
 let name = "John";
 
 // Display message
-console.log(name);
+console.log(khim
+
+);
 
 // Function
 function greet() {
